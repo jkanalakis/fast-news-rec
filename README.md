@@ -64,12 +64,6 @@ Recommend Similar News Articles
 }
 ```
 
-## Future Enhancements
-
-- Expand dataset coverage for better recommendations.
-- Implement additional embedding models for comparison.
-- Deploy as a cloud-based microservice.
-
 ## License
 
 This project is licensed under the MIT License.
